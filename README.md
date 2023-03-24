@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm Ithihas. Here's some intro:
 
-- I'm currently pursuing MSc Biological Sciences and Bachelors in Electronics & Communications at BITS Pilani Goa Campus. 
+- Currently working at Telus International AI DS as a Frontend developer. Github: https://github.com/ithihashistory
+- I've completed my MSc in Biological Sciences and Bachelors in Electronics & Communications at BITS Pilani Goa Campus. 
 - My interests are everevolving, currently they are: Computational Biology, Neuroscience, Robotics, Computer Vision & NLP, Blockchain and Ethical Hacking. 
-- Ask me about Elon Musk or Tesla, it would lead to an ```OverflowError```. 
 
 <br>
-I'm always looking for projects and internships related to my interests, reach out to me by raising an issue here!
+I'm always looking for project related to my interests, reach out to me by raising an issue here!
